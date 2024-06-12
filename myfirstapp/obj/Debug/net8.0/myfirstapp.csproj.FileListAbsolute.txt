@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\bin\Debug\net8.0\myfirstapp.exe
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\bin\Debug\net8.0\myfirstapp.deps.json
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\bin\Debug\net8.0\myfirstapp.runtimeconfig.json
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\bin\Debug\net8.0\myfirstapp.dll
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\bin\Debug\net8.0\myfirstapp.pdb
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.dll
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\refint\myfirstapp.dll
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.pdb
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\myfirstapp.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\dotnet\myfirstapp\obj\Debug\net8.0\ref\myfirstapp.dll
