@@ -39,7 +39,7 @@ namespace InheritancePrincipleCSharp
 
         public void DisplayBookInfo()
         {
-            Console.WriteLine("Book: "+Title+ "by "+Author+","+Pages+" pages.");
+            Console.WriteLine("Book: "+Title+ " by "+Author+","+Pages+" pages.");
         }
     }
 

@@ -5,10 +5,10 @@ class program
     {
  
         int amount = 1000, deposit, withdraw;
-        int choice, pin = 0;
+        int choice, pin = 0,c;
         Console.WriteLine("***Welcome to ATM Service*****\n");
 
-        Console.WriteLine("Enter Your Pin Number ");
+        Console.WriteLine("Enter Your Pin Number: ");
         pin = int.Parse(Console.ReadLine());
         do
         {
@@ -54,8 +54,10 @@ class program
                 return;
             }
             Console.WriteLine("--------------------------------------------------------------");
-            Console.WriteLine("\nTHANKS FOR USING OUR ATM SERVICE");
-        }while(choice!=4);
+            Console.WriteLine("\nTHANK YOU FOR USING OUR ATM SERVICE");
+            Console.WriteLine("Do you want to continue yes/no press 0 or 1: ");
+            c=Convert.ToInt32(Console.ReadLine());
+        }while(c==1);
         
     }
  }
